@@ -1,0 +1,6 @@
+{{ with resources.Get . }}
+<div style="flex: 1 0 0%; padding-right: 1rem; padding-left: 1rem;">
+  <img src="{{ .Permalink }}" alt="{{ .Title }}" height="130">
+</div>
+{{ end }}
+

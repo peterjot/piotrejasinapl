@@ -1,0 +1,8 @@
+enabled: true
+id: "certifications"
+
+content:
+  title: "Certificates "
+  items:
+    - "images/itil.svg"
+    - "images/gcppca.svg"

@@ -1,0 +1,68 @@
+baseURL = 'https://piotrjasina.pl/'
+languageCode = 'en'
+title = 'Piotr Jasina'
+theme = 'hugo-coder'
+defaultcontentlanguage = "en"
+googleAnalytics = "G-X42YYVDW74"
+paginate = 20
+
+disqusShortname = "Piotr Jasina"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Piotr Jasina"
+  info = ["Software Engineering", "Consulting"]
+  description = "Experienced and results-driven software engineer with a proven track record in delivering high-quality code and innovative solutions. Meticulous attention to detail, analytical mindset, and a strong track record of achievements in developing complex projects for leading global companies. Proactive problem solver, team player, and dedicated learner, always staying updated with the latest industry trends. Passionate about optimizing code for efficiency and scalability. Ready to drive impactful results in any software development role."
+  keywords = "expirienced,softwareengineer,highqualitycode,programmer,coder,innovativesolutions,scalability,personal,developer,software,engineer,neuroscience,psychology,investment"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "piotrekjasina@gmail.com"
+
+  favicon_32 = "/images/favicon-32x32.png"
+  favicon_16 = "/images/favicon-16x16.png"
+
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/peterjot/"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://linkedin.com/in/piotr-jasina/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/piotr_jasina/"
+
+# Menu links
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url  = "posts/"
+#[[menu.main]]
+#  name = "About"
+#  weight = 2
+#  url = "about/"
+#  
