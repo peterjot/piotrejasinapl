@@ -1,0 +1,13 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Work with customers brands and startups "
+  items:
+    - "images/allegro-cropped.svg"
+    - "images/apreel-cropped.svg"
+    - "images/ringieraxel-cropped.svg"
+    - "images/onet-cropped.svg"
+    - "images/forbes-cropped.svg"
+    - "images/businessinsider-cropped.svg"
+    - "images/lingaro-cropped.svg"
