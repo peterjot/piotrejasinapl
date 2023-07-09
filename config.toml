@@ -3,7 +3,7 @@ languageCode = 'en'
 title = 'Piotr Jasina'
 theme = 'hugo-coder'
 defaultcontentlanguage = "en"
-
+googleAnalytics = "G-X42YYVDW74"
 paginate = 20
 
 disqusShortname = "Piotr Jasina"
